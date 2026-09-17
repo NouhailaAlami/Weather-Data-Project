@@ -22,17 +22,17 @@ This simple weather pipeline demonstrates a **production-like ETL pipeline** bui
 
 - ## Installation & Setup
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/NouhailaAlami/Weather-Data-Project.git
 cd Weather-Data-Project
 
-# 2. Start Docker containers
+### 2. Start Docker containers
 docker-compose up
 
-# 3. Wait for Airflow to initialize 
+### 3. Wait for Airflow to initialize 
 You'll see: "Airflow is ready"
 
-# 4. Access Airflow UI
+### 4. Access Airflow UI
 Open browser: http://localhost:8000
 Login with default credentials (see logs for password)
 
