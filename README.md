@@ -1,11 +1,11 @@
 This simple weather pipeline demonstrates a **production-like ETL pipeline** built from scratch to strengthen data engineering fundamentals. The goal is to showcase:
 
-- **Data Pipeline Development** - Building scalable, modular ETL workflows
-- **Orchestration** - Using Apache Airflow to schedule and manage data tasks
-- **Containerization** - Deploying services with Docker for reproducibility
-- **Database Management** - Designing schemas and persisting data in PostgreSQL
-- **Infrastructure as Code** - Managing entire stacks with docker-compose
-- **Best Practices** - Error handling, logging, and clean code structure
+- **Data Pipeline Development**:Building scalable, modular ETL workflows
+- **Orchestration**: Using Apache Airflow to schedule and manage data tasks
+- **Containerization**: Deploying services with Docker for reproducibility
+- **Database Management**: Designing schemas and persisting data in PostgreSQL
+- **Infrastructure as Code**: Managing entire stacks with docker-compose
+- **Best Practices**: Error handling, logging, and clean code structure
 
 ## Tech Stack
 
