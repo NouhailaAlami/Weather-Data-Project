@@ -30,11 +30,11 @@ cd Weather-Data-Project
 docker-compose up
 
 # 3. Wait for Airflow to initialize 
-# You'll see: "Airflow is ready"
+You'll see: "Airflow is ready"
 
 # 4. Access Airflow UI
-# Open browser: http://localhost:8000
-# Login with default credentials (see logs for password)
+Open browser: http://localhost:8000
+Login with default credentials (see logs for password)
 
 ## Pipeline Workflow
 
