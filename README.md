@@ -48,5 +48,7 @@ The DAG (`orchestrator.py`) executes the following steps:
 ### Test Execution & Results
 
 The DAG was executed successfully. The logs show the complete ETL workflow:
+<div align="center">
 <img width="637" height="489" alt="image" src="https://github.com/user-attachments/assets/18f38f56-0ebf-481c-864e-1a33d32529df" />
+<div/>
 
