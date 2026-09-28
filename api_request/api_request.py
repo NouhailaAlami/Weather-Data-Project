@@ -1,6 +1,6 @@
 import requests
 
-api_key=""
+api_key=os.getenv("WEATHERSTACK_API_KEY")
 api_url ="https://api.weatherstack.com/current?access_key={api_key}&query=Japan"
 
 
