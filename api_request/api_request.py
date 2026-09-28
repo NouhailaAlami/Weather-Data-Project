@@ -1,6 +1,6 @@
 import requests
 
-api_key="046f979ee464e633a04bcac31e60d39a"
+api_key=""
 api_url ="https://api.weatherstack.com/current?access_key={api_key}&query=Japan"
 
 
